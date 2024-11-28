@@ -8,6 +8,9 @@ Tools used:
 2. Excel: Used for initial data cleaning and exploration
 3. Power BI: Used for data visualization
 
+![image](https://github.com/user-attachments/assets/b37ae2f1-9ec7-4d48-ab3c-f0e48af9d82a)
+
+
 Insights:
 1. The R-Square of the Linear Regression used in the Python predictive analysis was 0.78, indicating a high goodness of fit yet still having room for context interpretation (special date and time that a video was created, its content's relevance to the channel's target audience, etc.)
 2. Based on the current statistics, the predicted average view count of the channel in the next 5 years from now (2025 to 2030) is an upward trend from over 4 million views to almost 7 millions
